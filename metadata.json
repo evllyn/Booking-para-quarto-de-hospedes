@@ -1,0 +1,5 @@
+{
+  "name": "Guest Room Booking Manager",
+  "description": "Uma aplicação web simples para gerir as reservas de um quarto de hóspedes, inspirada no booking.com. Permite aos utilizadores adicionar novas reservas e visualizar todas as existentes.",
+  "requestFramePermissions": []
+}
